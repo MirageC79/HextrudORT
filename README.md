@@ -17,10 +17,10 @@ Re-using the internal components from the popular and efficient [Bondtech BMG](h
 
 ## Available and Planned Configurations:
 
-Item|HevORT XY gantry to be used with|HotEnd|Data|Release Status
+Item<br>Click for CAD|HevORT XY gantry to be used with|HotEnd|Data|Release Status
 :--:|--------------------------------|------|----|:------------:
 To come...|Blank Extruder Back Plate No Carriage|ALL|...|*est. March 2021*
-![Nova_STD_HT](/images/HextrudORT_STD_HT_NOVA_thumb.jpg)|Generic 6mm pulleys(STD)<br> or <br> Gates 6mm pulleys(HT)<br>**For MGN9H X Rail**|[Nova HotEnd](https://3dpassion.com/nova)|[STLs](https://www.thingiverse.com/thing:4786341){:target="_blank"} <br> <br> [BOM & Notes](/files/STDHT_MGN9_NOVA/BOM/BOM_HextrudORT_NOVA_XCarriageMGN9.htm){:target="_blank"} <br> <br> [Excel](/files/STDHT_MGN9_NOVA/BOM/BOM_HextrudORT_NOVA_XCarriageMGN9.xlsx) |**Released** <br> Mar 2021
+[![Nova_STD_HT](/images/HextrudORT_STD_HT_NOVA_thumb.jpg)](https://a360.co/3sxtdUR){:target="_blank"}|Generic 6mm pulleys(STD)<br> or <br> Gates 6mm pulleys(HT)<br>**For MGN9H X Rail**|[Nova HotEnd](https://3dpassion.com/nova)|[STLs](https://www.thingiverse.com/thing:4786341){:target="_blank"} <br> <br> [BOM & Notes](/files/STDHT_MGN9_NOVA/BOM/BOM_HextrudORT_NOVA_XCarriageMGN9.htm){:target="_blank"} <br> <br> [Excel](/files/STDHT_MGN9_NOVA/BOM/BOM_HextrudORT_NOVA_XCarriageMGN9.xlsx) |**Released** <br> Mar 2021
 To come...|SGeneric 6mm pulleys(STD)<br> or <br> Gates 6mm pulleys(HT)<br>**For MGN12H X Rail**|[Nova HotEnd](https://3dpassion.com/nova)|...|*est. March 2021*
 To come...|HD9|[Nova HotEnd](https://3dpassion.com/nova)|...|*est. March 2021*
 To come...|HD12|[Nova HotEnd](https://3dpassion.com/nova)|...|*est. March 2021*
