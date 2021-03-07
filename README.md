@@ -8,6 +8,13 @@ Light, small and efficient extruder based on the popular Bondtech BMG.
 The HextrudORT is the simple combination of a proven concept and the desire to obtain a compact and lightweight print head for fast 3D printing.  
 Re-using the internal components from the popular and efficient [Bondtech BMG](https://www.bondtech.se/en/product/bmg-extruder/){:target="_blank"}, this extruder was specifically designed to be merged into the [HevORT's](www.hevort.com) print head carriage.
 
+<br>
+<br>
+<iframe width="300" height="200" src="https://www.youtube.com/embed/5HKC9tRqtTw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <iframe width="300" height="200" src="https://www.youtube.com/embed/Y5IA_bEpdKk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+<br>
+
 ## Available and Planned Configurations:
 
 Item|HevORT XY gantry to be used with|HotEnd|Data|Release Status
