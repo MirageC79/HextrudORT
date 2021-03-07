@@ -17,11 +17,8 @@ Item|HevORT XY gantry to be used with|HotEnd|Data|Release Status
 
 ## Back to [HevORT project](www.hevort.com)
 
-[![FB](/images/Facebook-Icon_Hvt.png)](https://www.facebook.com/groups/hevort)  [![forum](/images/Forum-Icon_hvt.png)](https://forums.hevort.com/index.php) [![Discord](/images/discord_Icon_hvt.png)](https://discord.gg/WgZMrFSp) 
 
-
-
-If you like my work and would like to help me covering the costs associated to the development and improvement of this project, <br>
+**If you like my work** and would like to help me covering the costs associated to the development and improvement of this project, <br>
 click the button here below :)
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -33,3 +30,9 @@ click the button here below :)
 
 Thank you!
 Olivier
+
+[![FB](/images/Facebook-Icon_Hvt.png)](https://www.facebook.com/groups/hevort) FaceBook Group <br>
+[![forum](/images/Forum-Icon_hvt.png)](https://forums.hevort.com/index.php)  Discussion Forum <br>
+[![Discord](/images/discord_Icon_hvt.png)](https://discord.gg/WgZMrFSp) Discord Server <br>
+
+
