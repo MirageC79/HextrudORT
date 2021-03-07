@@ -33,9 +33,14 @@ To come...|SGeneric 6mm pulleys(STD)<br> or <br> Gates 6mm pulleys(HT)<br>**For 
 To come...|HD9|[Mosquito](https://www.sliceengineering.com/collections/mosquito-the-professional-hotend)|...|*est. April 2021*
 To come...|HD12|[Mosquito](https://www.sliceengineering.com/collections/mosquito-the-professional-hotend)|...|*est. April 2021*
 
+<br>
+
+## Report Issues [HERE](https://github.com/MirageC79/HextrudORT/issues)
+
+<br>
 
 ## Back to [HevORT project](www.hevort.com)
-
+<br>
 
 **If you like my work** and would like to help me covering the costs associated to the development and improvement of this project, <br>
 click the button here below :)
