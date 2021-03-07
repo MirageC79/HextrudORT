@@ -12,6 +12,6 @@ Re-using the internal components from the popular and efficient Bondtech BMG, th
 
 Item|HevORT XY gantry to be used with|HotEnd|STLs|BOM|Release Status
 ----|:------------------------------:|:----:|:--:|:-:|:------------:
-![Nova_STD_HT](/images/HextrudORT_STD_HT_NOVA_thumb.jpg)|Generic 6mm pulleys(STD)<br> or <br> Gates 6mm pulleys(HT)<br>**For MGN9H X Rail**|[Nova HotEnd](https://3dpassion.com/nova)||[BOM](/files/STDHT_MGN9_NOVA/BOM/BOM_HextrudORT_NOVA_XCarriageMGN9.htm){:target="_blank"}|**Released** <br> Mar 2021
+![Nova_STD_HT](/images/HextrudORT_STD_HT_NOVA_thumb.jpg)|Generic 6mm pulleys(STD)<br> or <br> Gates 6mm pulleys(HT)<br>**For MGN9H X Rail**|[Nova HotEnd](https://3dpassion.com/nova)|[STLs](https://www.thingiverse.com/thing:4786341){:target="_blank"}|[BOM](/files/STDHT_MGN9_NOVA/BOM/BOM_HextrudORT_NOVA_XCarriageMGN9.htm){:target="_blank"} <br> [Excel](/files/STDHT_MGN9_NOVA/BOM/BOM_HextrudORT_NOVA_XCarriageMGN9.xlsx) |**Released** <br> Mar 2021
 
 
