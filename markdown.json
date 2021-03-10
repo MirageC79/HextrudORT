@@ -1,1 +1,3 @@
-build|String|README.md
+---
+build: README.md
+---
