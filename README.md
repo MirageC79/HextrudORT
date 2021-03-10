@@ -60,4 +60,4 @@ Olivier
 [![forum](/images/Forum-Icon_hvt.png)](https://forums.hevort.com/index.php)  Discussion Forum <br>
 [![Discord](/images/discord_Icon_hvt.png)](https://discord.gg/WgZMrFSp) Discord Server <br>
 
-{% include_relative /files/ConfigTable.htm %}
+
