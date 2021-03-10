@@ -1,1 +1,1 @@
-build	String	File path of where everything should be compiled, like README.md.
+build|String|README.md
