@@ -37,7 +37,7 @@ To come...|HD9|...|*est. March 2021*
 
 Item<br>Click for CAD|HotEnd|Data|Release Status
 :-------------------:|------|----|:------------:
-[![Nova](/files/HOTEND_EXTRUDER/NOVA/HextrudORT_ NOVA_ASSYthumb.jpg)](https://a360.co/3cmE7WT)|[Nova HotEnd](https://3dpassion.com/nova)||*est. March 2021*
+[![Nova](/files/HOTEND_EXTRUDER/NOVA/HextrudORT_ NOVA_ASSYthumb.jpg)](https://a360.co/3cmE7WT){:target="_blank"}|[Nova HotEnd](https://3dpassion.com/nova)||*est. March 2021*
 To come...|[Dragon HotEnd](https://www.aliexpress.com/item/4000404170721.html?spm=a2g0o.productlist.0.0.11a2660aAu7BSe&algo_pvid=ee81e7b9-0781-4284-8702-710f8f93c357&algo_expid=ee81e7b9-0781-4284-8702-710f8f93c357-0&btsid=0bb0623016151023316034091e9361&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_)|...|*est. April 2021*
 To come...|[Mosquito](https://www.sliceengineering.com/collections/mosquito-the-professional-hotend)|...|*est. April 2021*
 To come...|[E3D ecosystem](https://www.sliceengineering.com/collections/mosquito-the-professional-hotend)|...|*est. April 2021*
