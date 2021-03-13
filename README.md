@@ -22,10 +22,10 @@ Several configurations can be created to support all HevORT XY gantry types as w
 
 Item<br>Click for CAD|HevORT XY gantry to be used with|Data|Release Status
 :-------------------:|--------------------------------|---|:------------:
-[![STDHTMGN9](files/CARRIAGE/STDHT_MGN9/HextrudORT_STDHT_MGN9_CarriageThumb.jpg)](https://a360.co/3bJBDmp)|STD/HT MGN9|[STLs](https://www.thingiverse.com/thing:4793215){:target="_blank"} <br> <br> [BOM & Notes](/files/CARRIAGE/STDHT_MGN9/BOM_HextrudORT_Carriage_STDHT_MGN9.htm){:target="_blank"} <br> <br> [Excel](/files/CARRIAGE/STDHT_MGN9/BOM_HextrudORT_Carriage_STDHT_MGN9.xlsx)|**RELEASED March 2021**
+[![STDHTMGN9](files/CARRIAGE/STDHT_MGN9/HextrudORT_STDHT_MGN9_CarriageThumb.jpg)](https://a360.co/3bJBDmp){:target="_blank"}|STD/HT MGN9|[STLs](https://www.thingiverse.com/thing:4793215){:target="_blank"} <br> <br> [BOM & Notes](/files/CARRIAGE/STDHT_MGN9/BOM_HextrudORT_Carriage_STDHT_MGN9.htm){:target="_blank"} <br> <br> [Excel](/files/CARRIAGE/STDHT_MGN9/BOM_HextrudORT_Carriage_STDHT_MGN9.xlsx)|**RELEASED March 2021**
 See table at the end of this page|STD/HT MGN12|...|**RELEASED March 2021**
 To come...|HD9|...|*est. March 2021*
-[![HD12](/files/CARRIAGE/HD12/HextrudORT_HD12_thumb.jpg)](https://a360.co/3bAL0EV)|[STLs](https://www.thingiverse.com/thing:4790412){:target="_blank"} <br> <br> [BOM & Notes](/files/CARRIAGE/HD12/BOM_HextrudORT_Carriage_HD12.htm){:target="_blank"} <br> <br> [Excel](/files/CARRIAGE/HD12/BOM_HextrudORT_Carriage_HD12.xlsx)|**RELEASED March 2021**
+[![HD12](/files/CARRIAGE/HD12/HextrudORT_HD12_thumb.jpg)](https://a360.co/3bAL0EV){:target="_blank"}|[STLs](https://www.thingiverse.com/thing:4790412){:target="_blank"} <br> <br> [BOM & Notes](/files/CARRIAGE/HD12/BOM_HextrudORT_Carriage_HD12.htm){:target="_blank"} <br> <br> [Excel](/files/CARRIAGE/HD12/BOM_HextrudORT_Carriage_HD12.xlsx)|**RELEASED March 2021**
 
 
 ## Extruder & HotEnds Configs
