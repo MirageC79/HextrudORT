@@ -18,6 +18,9 @@ Re-using the internal components from the popular and efficient [Bondtech BMG](h
 ### Modular approach!
 Several configurations can be created to support all HevORT XY gantry types as well as many populat HotEnds.  Select from the two tables here below your desired configuration and assemble them together :) 
 
+### Change log: 
+[Check here for change history:](https://github.com/MirageC79/HextrudORT/releases)
+
 ## Carriages
 
 Item<br>Click for CAD|HevORT XY gantry to be used with|Data|Release Status
