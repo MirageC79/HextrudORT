@@ -36,9 +36,9 @@ To come...|HD9|...|*est. March 2021*
 Item<br>Click for CAD|HotEnd|Data|Release Status
 :-------------------:|------|----|:------------:
 [![NovaHotEnd](/files/HOTEND_EXTRUDER/NOVA/NOVA_ASSYthumb.jpg)](https://a360.co/3cmE7WT)|[Nova HotEnd](https://3dpassion.com/nova)|[STLs](https://www.thingiverse.com/thing:4790773){:target="_blank"} <br> <br> [BOM & Notes](/files/HOTEND_EXTRUDER/NOVA/BOM_HextrudORT_Extruder_NOVA.htm){:target="_blank"} <br> <br> [Excel](/files/HOTEND_EXTRUDER/NOVA/BOM_HextrudORT_Extruder_NOVA.xlsx)|**RELEASED March 2021**
-To come...|[Dragon HotEnd](https://www.aliexpress.com/item/4000404170721.html?spm=a2g0o.productlist.0.0.11a2660aAu7BSe&algo_pvid=ee81e7b9-0781-4284-8702-710f8f93c357&algo_expid=ee81e7b9-0781-4284-8702-710f8f93c357-0&btsid=0bb0623016151023316034091e9361&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_)|...|*est. April 2021*
+[![Dragon](files/HOTEND_EXTRUDER/DRAGON/HextrudORT_Dragon_Installation_Thumb.jpg)](https://a360.co/3tqIMhf){:target="_blank"}|[Dragon HotEnd](https://s.click.aliexpress.com/e/_AD0Qow)|[STLs](https://www.thingiverse.com/thing:4796562){:target="_blank"} <br> <br> [BOM & Notes](/files/HOTEND_EXTRUDER/DRAGON/BOM_HextrudORT_Extruder_Dragon.htm){:target="_blank"} <br> <br> [Excel](/files/HOTEND_EXTRUDER/DRAGON/BOM_HextrudORT_Extruder_Dragon.xlsx)|**RELEASED March 2021**
 To come...|[Mosquito](https://www.sliceengineering.com/collections/mosquito-the-professional-hotend)|...|*est. April 2021*
-To come...|[E3D ecosystem](https://www.sliceengineering.com/collections/mosquito-the-professional-hotend)|...|*est. April 2021*
+To come...|[E3D ecosystem](https://e3d-online.com/)|...|*est. April 2021*
 
 <br>
 
