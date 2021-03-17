@@ -24,17 +24,18 @@ Several configurations can be created to support all HevORT XY gantry types as w
 ## Carriages
 
 Item<br>Click for CAD|HevORT XY gantry to be used with|Data|Release Status
-:-------------------:|--------------------------------|---|:------------:
+---------------------|--------------------------------|---|:------------:
+[![Blank](files/CARRIAGE/BLANK/HextrudORT_BLANK_Thumb.jpg)](https://a360.co/3tu2M2F){:target="_blank"}|*This is up to your imagination*|[STLs](https://www.thingiverse.com/thing:4796948){:target="_blank"} <br> <br> Merge this plate to your CAD in order install the Hextrudort|**RELEASED March 2021**
 [![STDHTMGN9](files/CARRIAGE/STDHT_MGN9/HextrudORT_STDHT_MGN9_CarriageThumb.jpg)](https://a360.co/3bJBDmp){:target="_blank"}|STD/HT MGN9|[STLs](https://www.thingiverse.com/thing:4793215){:target="_blank"} <br> <br> [BOM & Notes](/files/CARRIAGE/STDHT_MGN9/BOM_HextrudORT_Carriage_STDHT_MGN9.htm){:target="_blank"} <br> <br> [Excel](/files/CARRIAGE/STDHT_MGN9/BOM_HextrudORT_Carriage_STDHT_MGN9.xlsx)|**RELEASED March 2021**
 See table at the end of this page|STD/HT MGN12|...|**RELEASED March 2021**
 To come...|HD9|...|*est. March 2021*
-[![HD12](/files/CARRIAGE/HD12/HextrudORT_HD12_thumb.jpg)](https://a360.co/3bAL0EV){:target="_blank"}|[STLs](https://www.thingiverse.com/thing:4790412){:target="_blank"} <br> <br> [BOM & Notes](/files/CARRIAGE/HD12/BOM_HextrudORT_Carriage_HD12.htm){:target="_blank"} <br> <br> [Excel](/files/CARRIAGE/HD12/BOM_HextrudORT_Carriage_HD12.xlsx)|**RELEASED March 2021**
+[![HD12](/files/CARRIAGE/HD12/HextrudORT_HD12_thumb.jpg)](https://a360.co/3bAL0EV){:target="_blank"}|[STLs](https://www.thingiverse.com/thing:4790412){:target="_blank"} <br> <br> [BOM & Notes](/files/CARRIAGE/HD12/BOM_HextrudORT_Carriage_HD12.htm){:target="_blank"} <br> <br> [Excel](/files/CARRIAGE/HD12/BOM_HextrudORT_Carriage_HD12.xlsx)|...|**RELEASED March 2021**
 
 
 ## Extruder & HotEnds Configs
 
 Item<br>Click for CAD|HotEnd|Data|Release Status
-:-------------------:|------|----|:------------:
+---------------------|------|----|:------------:
 [![NovaHotEnd](/files/HOTEND_EXTRUDER/NOVA/NOVA_ASSYthumb.jpg)](https://a360.co/3cmE7WT)|[Nova HotEnd](https://3dpassion.com/nova)|[STLs](https://www.thingiverse.com/thing:4790773){:target="_blank"} <br> <br> [BOM & Notes](/files/HOTEND_EXTRUDER/NOVA/BOM_HextrudORT_Extruder_NOVA.htm){:target="_blank"} <br> <br> [Excel](/files/HOTEND_EXTRUDER/NOVA/BOM_HextrudORT_Extruder_NOVA.xlsx)|**RELEASED March 2021**
 [![Dragon](files/HOTEND_EXTRUDER/DRAGON/HextrudORT_Dragon_Installation_Thumb.jpg)](https://a360.co/3tqIMhf){:target="_blank"}|[Dragon HotEnd](https://s.click.aliexpress.com/e/_AD0Qow)|[STLs](https://www.thingiverse.com/thing:4796562){:target="_blank"} <br> <br> [BOM & Notes](/files/HOTEND_EXTRUDER/DRAGON/BOM_HextrudORT_Extruder_Dragon.htm){:target="_blank"} <br> <br> [Excel](/files/HOTEND_EXTRUDER/DRAGON/BOM_HextrudORT_Extruder_Dragon.xlsx)|**RELEASED March 2021**
 To come...|[Mosquito](https://www.sliceengineering.com/collections/mosquito-the-professional-hotend)|...|*est. April 2021*
