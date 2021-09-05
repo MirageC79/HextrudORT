@@ -29,7 +29,7 @@ Item<br>Click for CAD|HevORT XY gantry to be used with|Data|Release Status
 [![STDHTMGN9](files/CARRIAGE/STDHT_MGN9/HextrudORT_STDHT_MGN9_CarriageThumb.jpg)](https://a360.co/3bJBDmp){:target="_blank"}|STD/HT MGN9|[STLs](https://www.thingiverse.com/thing:4793215){:target="_blank"} <br> <br> [BOM & Notes](/files/CARRIAGE/STDHT_MGN9/BOM_HextrudORT_Carriage_STDHT_MGN9.htm){:target="_blank"} <br> <br> [Excel](/files/CARRIAGE/STDHT_MGN9/BOM_HextrudORT_Carriage_STDHT_MGN9.xlsx)|**RELEASED March 2021**
 [![STDHTMGN12](files/CARRIAGE/STDHT_MGN12/HextrudORT_STDHT_MGN12_Carriage_Thumb.jpg)](https://a360.co/3m0Uj4F){:target="_blank"}|STD/HT MGN12|[STLs](https://www.thingiverse.com/thing:4810748){:target="_blank"} <br> <br> [BOM & Notes](/files/CARRIAGE/STDHT_MGN12/BOM_HextrudORT_Carriage_STDHT_MGN12.htm){:target="_blank"} <br> <br> [Excel](/files/CARRIAGE/STDHT_MGN12/BOM_HextrudORT_Carriage_STDHT_MGN12.xlsx)|**RELEASED March 2021**
 To come...|HD9|...|*est. April 2021*
-[![HD12](/files/CARRIAGE/HD12/HextrudORT_HD12_thumb.jpg)](https://a360.co/3bAL0EV){:target="_blank"}|[STLs](https://www.thingiverse.com/thing:4790412){:target="_blank"} <br> <br> [BOM & Notes](/files/CARRIAGE/HD12/BOM_HextrudORT_Carriage_HD12.htm){:target="_blank"} <br> <br> [Excel](/files/CARRIAGE/HD12/BOM_HextrudORT_Carriage_HD12.xlsx)|...|**RELEASED March 2021**
+[![HD12](/files/CARRIAGE/HD12/HextrudORT_HD12_thumb.jpg)](https://a360.co/3bAL0EV){:target="_blank"}|HD12(MGN12)|[STLs](https://www.thingiverse.com/thing:4790412){:target="_blank"} <br> <br> [BOM & Notes](/files/CARRIAGE/HD12/BOM_HextrudORT_Carriage_HD12.htm){:target="_blank"} <br> <br> [Excel](/files/CARRIAGE/HD12/BOM_HextrudORT_Carriage_HD12.xlsx)|**RELEASED March 2021**
 
 
 ## Extruder & HotEnds Configs
