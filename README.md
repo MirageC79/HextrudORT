@@ -67,14 +67,3 @@ Olivier
 [![FB](/images/Facebook-Icon_Hvt.png)](https://www.facebook.com/groups/hevort) FaceBook Group <br>
 [![forum](/images/Forum-Icon_hvt.png)](https://forums.hevort.com/index.php)  Discussion Forum <br>
 [![Discord](/images/discord_Icon_hvt.png)](https://discord.gg/WgZMrFSp) Discord Server <br>
-
-## The section below will change:
-
-Item<br>Click for CAD|HevORT XY gantry to be used with|HotEnd|Data|Release Status
-:--:|--------------------------------|------|----|:------------:
-To come...|Blank Extruder Back Plate No Carriage|ALL|...|*est. March 2021*
-[![Nova_STD_HT](/images/HextrudORT_STD_HT_NOVA_thumb.jpg)](https://a360.co/3sxtdUR){:target="_blank"}|Generic 6mm pulleys(STD)<br> or <br> Gates 6mm pulleys(HT)<br>**For MGN9H X Rail**|[Nova HotEnd](https://3dpassion.com/nova)|[STLs](https://www.thingiverse.com/thing:4786341){:target="_blank"} <br> <br> [BOM & Notes](/files/STDHT_MGN9_NOVA/BOM/BOM_HextrudORT_NOVA_XCarriageMGN9.htm){:target="_blank"} <br> <br> [Excel](/files/STDHT_MGN9_NOVA/BOM/BOM_HextrudORT_NOVA_XCarriageMGN9.xlsx) |**Released** <br> Mar 2021
-[![STDHT_MGN9_NOVA](/files/STDHT_MGN12_NOVA/STDHT_MGN12_Thumb.jpg)](https://a360.co/3sZ4HMp){:target="_blank"}|SGeneric 6mm pulleys(STD)<br> or <br> Gates 6mm pulleys(HT)<br>**For MGN12H X Rail**|[Nova HotEnd](https://3dpassion.com/nova)|[STLs](https://www.thingiverse.com/thing:4787368){:target="_blank"} <br> <br> [BOM & Notes](/files/STDHT_MGN12_NOVA/BOM/BOM_HextrudORT_NOVA_XCarriageMGN12.htm){:target="_blank"} <br> <br> [Excel](/files/STDHT_MGN12_NOVA/BOM/BOM_HextrudORT_NOVA_XCarriageMGN12.xlsx)|**Released** <br> Mar 2021
-
-
-
