@@ -10,7 +10,7 @@ Re-using the internal components from the popular and efficient [Bondtech BMG](h
 
 <br>
 <br>
-<iframe width="200" height="150" src="https://www.youtube.com/embed/5HKC9tRqtTw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="200" height="150" src="https://www.youtube.com/embed/Y5IA_bEpdKk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="200" height="150" src="https://www.youtube.com/embed/YIFRRQczDmg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="200" height="150" src="https://www.youtube.com/embed/5HKC9tRqtTw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="200" height="150" src="https://youtu.be/h-ukClHtai4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="200" height="150" src="https://www.youtube.com/embed/YIFRRQczDmg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 <br>
@@ -41,6 +41,10 @@ Item<br>Click for CAD|HotEnd|Data|Release Status
 [![Mosquito](files/HOTEND_EXTRUDER/MOSQUITO/HextrudORT_Mosquito_Thumb.jpg)](https://a360.co/3tJ0A8Q){:target="_blank"}|[Mosquito HotEnd](https://www.sliceengineering.com/collections/mosquito-the-professional-hotend)|[STLs](https://www.thingiverse.com/thing:4965960){:target="_blank"} <br> <br> [BOM & Notes](/files/HOTEND_EXTRUDER/MOSQUITO/BOM_HextrudORT_Extruder_Mosquito.htm){:target="_blank"} <br> <br> [Excel](/files/HOTEND_EXTRUDER/MOSQUITO/BOM_HextrudORT_Extruder_Mosquito.xlsx)|**RELEASED September 2021**
 [![E3D V6 & Volcano](files/HOTEND_EXTRUDER/E3DV6/HextrudORT_E3D_thumb.jpg)](https://a360.co/3dGhSNx){:target="_blank"}|[E3D V6 & Volcano HotEnd](https://e3d-online.com/)|[STLs](https://www.thingiverse.com/thing:4971939){:target="_blank"} <br> <br> [BOM & Notes](/files/HOTEND_EXTRUDER/E3DV6/BOM_HextrudORT_Extruder_E3D.htm){:target="_blank"} <br> <br> [Excel](/files/HOTEND_EXTRUDER/E3DV6/BOM_HextrudORT_Extruder_E3D.xlsx)|**RELEASED September 2021**
 
+
+<br>
+
+![Header](/images/HextrudORT_Assembly_Glass_TR.jpg)
 
 <br>
 
