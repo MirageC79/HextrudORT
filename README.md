@@ -1,7 +1,7 @@
 # HextrudORT
 Light, small and efficient extruder based on the popular Bondtech BMG.
+![Header](/images/HextrudORT_Assembly_Glass_TR.jpg)
 
-![Header](/images/HextrudORT_Cover215g.jpg)
 
 
 ## Why the HextrudORT:
@@ -14,8 +14,8 @@ Re-using the internal components from the popular and efficient [Bondtech BMG](h
 
 <br>
 
-![Header](/images/HextrudORT_Assembly_Glass_TR.jpg)
 <br>
+![Header](/images/HextrudORT_Cover215g.jpg)
 
 ### Modular approach!
 Several configurations can be created to support all HevORT XY gantry types as well as many populat HotEnds.  Select from the two tables here below your desired configuration and assemble them together :) 
