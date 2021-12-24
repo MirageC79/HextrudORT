@@ -1,7 +1,7 @@
 # HextrudORT
 Light, small and efficient extruder based on the popular Bondtech BMG.
+![Header](/images/HextrudORT_Assembly_Glass_TR.jpg)
 
-![Header](/images/HextrudORT_Cover215g.jpg)
 
 
 ## Why the HextrudORT:
@@ -10,10 +10,12 @@ Re-using the internal components from the popular and efficient [Bondtech BMG](h
 
 <br>
 <br>
-<iframe width="200" height="150" src="https://www.youtube.com/embed/5HKC9tRqtTw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="200" height="150" src="https://youtu.be/h-ukClHtai4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="200" height="150" src="https://www.youtube.com/embed/YIFRRQczDmg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="200" height="150" src="https://www.youtube.com/embed/5HKC9tRqtTw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="200" height="150" src="https://www.youtube.com/embed/h-ukClHtai4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="200" height="150" src="https://www.youtube.com/embed/YIFRRQczDmg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
+
 <br>
+![Header](/images/HextrudORT_Cover215g.jpg)
 
 ### Modular approach!
 Several configurations can be created to support all HevORT XY gantry types as well as many populat HotEnds.  Select from the two tables here below your desired configuration and assemble them together :) 
@@ -40,11 +42,8 @@ Item<br>Click for CAD|HotEnd|Data|Release Status
 [![Dragon](files/HOTEND_EXTRUDER/DRAGON/HextrudORT_Dragon_Installation_Thumb.jpg)](https://a360.co/3tqIMhf){:target="_blank"}|[Dragon HotEnd](https://s.click.aliexpress.com/e/_AD0Qow)|[STLs](https://www.thingiverse.com/thing:4796562){:target="_blank"} <br> <br> [BOM & Notes](/files/HOTEND_EXTRUDER/DRAGON/BOM_HextrudORT_Extruder_Dragon.htm){:target="_blank"} <br> <br> [Excel](/files/HOTEND_EXTRUDER/DRAGON/BOM_HextrudORT_Extruder_Dragon.xlsx)|**RELEASED March 2021**
 [![Mosquito](files/HOTEND_EXTRUDER/MOSQUITO/HextrudORT_Mosquito_Thumb.jpg)](https://a360.co/3tJ0A8Q){:target="_blank"}|[Mosquito HotEnd](https://www.sliceengineering.com/collections/mosquito-the-professional-hotend)|[STLs](https://www.thingiverse.com/thing:4965960){:target="_blank"} <br> <br> [BOM & Notes](/files/HOTEND_EXTRUDER/MOSQUITO/BOM_HextrudORT_Extruder_Mosquito.htm){:target="_blank"} <br> <br> [Excel](/files/HOTEND_EXTRUDER/MOSQUITO/BOM_HextrudORT_Extruder_Mosquito.xlsx)|**RELEASED September 2021**
 [![E3D V6 & Volcano](files/HOTEND_EXTRUDER/E3DV6/HextrudORT_E3D_thumb.jpg)](https://a360.co/3dGhSNx){:target="_blank"}|[E3D V6 & Volcano HotEnd](https://e3d-online.com/)|[STLs](https://www.thingiverse.com/thing:4971939){:target="_blank"} <br> <br> [BOM & Notes](/files/HOTEND_EXTRUDER/E3DV6/BOM_HextrudORT_Extruder_E3D.htm){:target="_blank"} <br> <br> [Excel](/files/HOTEND_EXTRUDER/E3DV6/BOM_HextrudORT_Extruder_E3D.xlsx)|**RELEASED September 2021**
+[![RAPIDO HotEnd](files/HOTEND_EXTRUDER/RAPIDO/HextrudORT_RAPIDO_thumb.jpg)](https://a360.co/3Hfaa97){:target="_blank"}|[RAPIDO & RAPIDO UHF](https://www.phaetus.com/rapido-hotend/)|[STLs](https://www.thingiverse.com/thing:5173650){:target="_blank"} <br> <br> [BOM & Notes](/files/HOTEND_EXTRUDER/RAPIDO/BOM_HextrudORT_Extruder_RAPIDO.htm){:target="_blank"} <br> <br> [Excel](/files/HOTEND_EXTRUDER/RAPIDO/BOM_HextrudORT_Extruder_RAPIDO.xlsx)|**RELEASED December 2021**
 
-
-<br>
-
-![Header](/images/HextrudORT_Assembly_Glass_TR.jpg)
 
 <br>
 
