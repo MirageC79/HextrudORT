@@ -23,6 +23,10 @@ Special thanks to *sillysam71* from the [HevORT discord server](https://discord.
   - Rapido
   - Rapido UHF
   - CHC Volcano
-
+- VZ PrintHead for HevORT (All HDs)
+  - Goliath Short (Watercooled Extruder)
+  - Pretty much any other hotend
+    
+![TentaCool VzPrintHead Goliath Short](https://raw.githubusercontent.com/MirageC79/HextrudORT/main/files/COOLING/TENTACOOL/pictures/TentacoolGoliathShort_MainView.png)
 ![tentacool_HD12_MGN9 Install](https://user-images.githubusercontent.com/29920140/227210173-b571b0ce-4bd1-4607-89bf-28afc776b1fa.jpg)
 ![TentaCool Duct](https://github.com/MirageC79/HextrudORT/blob/main/files/COOLING/TENTACOOL/HD12MGN9_Volcano_TentaCool_V1%20v1.jpg)
